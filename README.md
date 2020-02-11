@@ -1,2 +1,2 @@
 # Change-color
-Changes color by mousemove and shows actual position of cursor.
+Changes color on mousemove and shows actual position of cursor.
